@@ -1,11 +1,8 @@
-# Github-Account-Searcher
-Github account Searcher
-
-
-## Developed By: [Pathik-code](github.com/Pathik-code)
-
+# Github Searcher
 This is an api based website that will help u to get information about a person,company or repository quickly. 
-Basically, developed it for education purpose. 
+Basically, developed it for education purpose.
+
+## Developed By: [Pathik-code](github.com/Pathik-code) 
 
 ## What you can do with the Project? 
 - You can search with fastest way.
